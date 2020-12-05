@@ -1,0 +1,13 @@
+D:\Progi\Uzemanyag_Szamolo\Uzemanyag_Szamolo\bin\Debug\netcoreapp3.1\Uzemanyag_Szamolo.exe
+D:\Progi\Uzemanyag_Szamolo\Uzemanyag_Szamolo\bin\Debug\netcoreapp3.1\Uzemanyag_Szamolo.deps.json
+D:\Progi\Uzemanyag_Szamolo\Uzemanyag_Szamolo\bin\Debug\netcoreapp3.1\Uzemanyag_Szamolo.runtimeconfig.json
+D:\Progi\Uzemanyag_Szamolo\Uzemanyag_Szamolo\bin\Debug\netcoreapp3.1\Uzemanyag_Szamolo.runtimeconfig.dev.json
+D:\Progi\Uzemanyag_Szamolo\Uzemanyag_Szamolo\bin\Debug\netcoreapp3.1\Uzemanyag_Szamolo.dll
+D:\Progi\Uzemanyag_Szamolo\Uzemanyag_Szamolo\bin\Debug\netcoreapp3.1\Uzemanyag_Szamolo.pdb
+D:\Progi\Uzemanyag_Szamolo\Uzemanyag_Szamolo\obj\Debug\netcoreapp3.1\Uzemanyag_Szamolo.csprojAssemblyReference.cache
+D:\Progi\Uzemanyag_Szamolo\Uzemanyag_Szamolo\obj\Debug\netcoreapp3.1\Uzemanyag_Szamolo.csproj.CoreCompileInputs.cache
+D:\Progi\Uzemanyag_Szamolo\Uzemanyag_Szamolo\obj\Debug\netcoreapp3.1\Uzemanyag_Szamolo.AssemblyInfoInputs.cache
+D:\Progi\Uzemanyag_Szamolo\Uzemanyag_Szamolo\obj\Debug\netcoreapp3.1\Uzemanyag_Szamolo.AssemblyInfo.cs
+D:\Progi\Uzemanyag_Szamolo\Uzemanyag_Szamolo\obj\Debug\netcoreapp3.1\Uzemanyag_Szamolo.dll
+D:\Progi\Uzemanyag_Szamolo\Uzemanyag_Szamolo\obj\Debug\netcoreapp3.1\Uzemanyag_Szamolo.pdb
+D:\Progi\Uzemanyag_Szamolo\Uzemanyag_Szamolo\obj\Debug\netcoreapp3.1\Uzemanyag_Szamolo.genruntimeconfig.cache
